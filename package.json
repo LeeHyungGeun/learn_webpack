@@ -1,0 +1,30 @@
+{
+  "name": "learn_webpack",
+  "version": "1.0.0",
+  "description": "It is a guide to learn webpack.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeHyungGeun/learn_webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "LeeHyungGeun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeeHyungGeun/learn_webpack/issues"
+  },
+  "homepage": "https://github.com/LeeHyungGeun/learn_webpack#readme",
+  "devDependencies": {
+    "extract-text-webpack-plugin": "^0.9.1",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "lodash": "^3.10.1",
+    "webpack": "^1.12.3",
+    "webpack-dev-server": "^1.12.1"
+  }
+}
